@@ -1,3 +1,3 @@
 Git is a version control system
 Git is free software
-are you ok???
+are you o
